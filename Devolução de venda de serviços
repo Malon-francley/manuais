@@ -1,0 +1,4 @@
+Somente para as lojas migradas para o odoo.
+
+Ao cancelar o serviço o sistema gerará um crédito referente ao valor pago pelo cliente, exceto na modalidade de carnê que o sistema irá baixar o carnê do cliente,
+caso a venda possua entrada ou ja tenha quitado alguma parcela a diferença retornará como crédito para o cliente.
